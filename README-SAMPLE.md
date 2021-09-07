@@ -1,6 +1,7 @@
 # Deploy nodejs application
 this applicaction is for a nodejs app, current version 2.5.14
 
+![image 1](public/logo192.png)
 
 | Module | Description |
 | ------ | ------ |
@@ -29,5 +30,7 @@ npm i
 npm start
 ```
 
-# Licence
+## Licence
+
+GNU
 
